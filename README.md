@@ -17,6 +17,6 @@
 <img src="https://github.com/vivekpandeyait/Django-Vue-CSV-export-on-UI/blob/master/screenshot5.png"/> 
 
 
-Github link: https://github.com/vivekpandeyait/Django-Vue-CSV-export-on-UI
-youtube link intro about the task: https://www.youtube.com/watch?v=kVmPGVaXDYA
-2nd  link performance of task:https://www.youtube.com/watch?v=lAYNqd4He0s
+Github link: https://github.com/vivekpandeyait/Django-Vue-CSV-export-on-UI <br>
+youtube link intro about the task: https://www.youtube.com/watch?v=kVmPGVaXDYA<br>
+2nd  link performance of task:https://www.youtube.com/watch?v=lAYNqd4He0s<br>
